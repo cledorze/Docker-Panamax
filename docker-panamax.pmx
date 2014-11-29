@@ -1,0 +1,10 @@
+---
+name: Docker-Panamax
+description: Panamax images
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: audreyt_ethercalc_latest
+  source: audreyt/ethercalc:latest
+  type: Default
